@@ -1,8 +1,7 @@
 name: via_cep_search
-description: An address search package
+description: Pacote para integração com a API ViaCEP (https://www.viacep.com.br).
 version: 0.0.1
-author: Ana Carolina Hernandes
-homepage:
+homepage: https://github.com/anacarolinahernandes/via_cep_search
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
